@@ -1,6 +1,4 @@
-# Suit supply assignment
-
-SPA in Core javascript
+#SPA in Core javascript
 
   - Server side in nodejs
   - Client side only OOJS, html and css3
